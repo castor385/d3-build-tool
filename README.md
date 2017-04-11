@@ -1,2 +1,2 @@
 # d3-build-tool
-Tool to track you favorite Diablo 3 Build
+Tool to track your favorite Diablo 3 Build

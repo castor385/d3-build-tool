@@ -1,0 +1,25 @@
+{
+  "name": "d3-build-tool",
+  "version": "1.0.0",
+  "description": "Tool to track your favorite Diablo 3 build",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/castor385/d3-build-tool.git"
+  },
+  "author": "Jurgen Sweere",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/castor385/d3-build-tool/issues"
+  },
+  "homepage": "https://github.com/castor385/d3-build-tool#readme",
+  "dependencies": {
+    "cheerio": "^0.22.0"
+  },
+  "devDependencies": {
+    "webpack": "^2.3.3"
+  }
+}
